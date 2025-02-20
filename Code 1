@@ -352,32 +352,32 @@ document.head.innerHTML +=`
         "https://audio.jukehost.co.uk/YHuVTe3MvCrTAjpFHmK6CliKyphzXr2N"
       );
     
-        const song2 = new Song(
+      const song2 = new Song(
+      "All Eyez On Me",
+      "2Pac",
+      "https://i.imgur.com/5YN34IS.png",
+      "https://audio.jukehost.co.uk/KpsjE4wViBC9SxpvYODuF75j5hMYhRSa"
+      );
+
+        const song3 = new Song(
         "Too Sweet",
         "Hozier",
         "https://i.imgur.com/Rhbdd8X.png",
         "https://audio.jukehost.co.uk/497MugETZMM0wfL70ed5ArCLd3IJjpFA"
       );
 
-      const song3 = new Song(
+      const song4 = new Song(
       "deja vu",
       "Olivia Rodrigo",
       "https://i.imgur.com/b2hr4Lv.png",
       "https://audio.jukehost.co.uk/Z4UrwGHml3EsOqqX8gT5aMPcExegQFTo"
       );
 
-      const song4 = new Song(
+      const song5 = new Song(
       "As It Was",
       "Harry Styles",
       "https://i.imgur.com/laIwcif.png",
       "https://audio.jukehost.co.uk/SiNUavMZ006HrU3afHjvqxaASzdP0ut8"
-      );
-
-      const song5 = new Song(
-      "All Eyez On Me",
-      "2Pac",
-      "https://i.imgur.com/5YN34IS.png",
-      "https://audio.jukehost.co.uk/KpsjE4wViBC9SxpvYODuF75j5hMYhRSa"
       );
 
       const song6 = new Song(
