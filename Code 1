@@ -703,10 +703,5 @@ campaignTrail_temp.achievements = {
     "image" : "https://i.imgur.com/bZx83Xc.gif",
     "description" : "Come out on top in a repeat performance.",
     "cannotBeCheated" : true
-  },
-  "Kanye Achievement" : {
-    "image" : "https://i.imgur.com/zzSMR8l.gif",
-    "description" : "Deny the Good Ass Job.",
-    "cannotBeCheated" : true
   }
   }
