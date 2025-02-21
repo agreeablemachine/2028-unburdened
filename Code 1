@@ -663,4 +663,45 @@ document.head.innerHTML +=`
       const gameWindow_player = document.getElementById("game_window");
       //use this function directly or put it in an event listener to start the music on the press of a certain button
       setupMusicPlayer();
-//#endcode
+campaignTrail_temp.achievements = {
+    "Don Jr. Achievement" : {
+        "image" : "https://i.imgur.com/5JS6tYR.gif",
+        "description" : "Defeat Donald Trump Jr.",
+        "cannotBeCheated" : true
+    },
+  "Rubio Achievement" : {
+        "image" : "https://i.imgur.com/5JS6tYR.gif",
+        "description" : "Defeat Marco Rubio.",
+        "cannotBeCheated" : true
+    },
+    "Youngkin Achievement" : {
+    "image" : "https://i.imgur.com/q0ohMod.gif",
+    "description" : "Defeat Glenn Youngkin.",
+    "cannotBeCheated" : true
+  },
+    "DeSantis Achievement" : {
+      "image" : "https://i.imgur.com/Srnln21.gif",
+      "description" : "Defeat Ron DeSantis.",
+      "cannotBeCheated" : true
+  },
+  "Haley Achievement" : {
+    "image" : "https://i.imgur.com/CgbsMRn.gif",
+    "description" : "Defeat Nikki Haley.",
+    "cannotBeCheated" : true
+  },
+  "Tucker Achievement" : {
+    "image" : "https://i.imgur.com/r3g8Dnv.gif",
+    "description" : "Defeat Tucker Carlson.",
+    "cannotBeCheated" : true
+  },
+  "RFK Achievement" : {
+    "image" : "https://i.imgur.com/I29nB5Q.gif",
+    "description" : "Defeat Robert F. Kennedy Jr.",
+    "cannotBeCheated" : true
+  },
+  "Trump Achievement" : {
+    "image" : "https://i.imgur.com/bZx83Xc.gif",
+    "description" : "Come out on top in a repeat performance.",
+    "cannotBeCheated" : true
+  }
+  }
